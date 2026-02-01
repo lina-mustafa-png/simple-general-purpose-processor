@@ -54,3 +54,13 @@ src/
 -- GPU_prob2.bdf -> Problem 2 top-level schematic
 -- GPU_prob3.bdf -> Problem 3 top-level schematic
 -- *.vwf -> Waveform simulations
+
+## Implemented Problem Sets
+
+This project includes the base processor design along with additional
+problem-specific modifications assigned during the lab.
+
+- **Initial GPU Design:** Full processor implementation with FSM, decoder, and ALU
+- **Problem 2:** Modified ALU core with new arithmetic and logical operations
+- **Problem 3:** Modified control unit using FSM output and conditional display logic
+
