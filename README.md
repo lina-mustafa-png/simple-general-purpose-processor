@@ -41,19 +41,19 @@ Modified versions of the ALU were implemented to satisfy additional problem sets
 ## Project Structure
 
 src/
--- ALU.vhd # ALU core implementation
--- ALU_mod.vhd -> Modified ALU based on problem set
--- ALU_prob3.vhd -> Modified ALU based on problem set
--- decoder.vhd -> 4-to-16 decoder
--- FSM.vhd -> Finite State Machine
--- latch1.vhd -> Register for input A
--- latch2.vhd -> Register for input B
--- sseg.vhd -> Seven-segment display logic
--- sseg_mod.vhd -> Modified seven-segment logic
--- GPU.bdf -> Top-level processor schematic
--- GPU_prob2.bdf -> Problem 2 top-level schematic
--- GPU_prob3.bdf -> Problem 3 top-level schematic
--- *.vwf -> Waveform simulations
+- ALU.vhd -> ALU core implementation
+- ALU_mod.vhd -> Modified ALU based on problem set
+- ALU_prob3.vhd -> Modified ALU based on problem set
+- decoder.vhd -> 4-to-16 decoder
+- FSM.vhd -> Finite State Machine
+- latch1.vhd -> Register for input A
+- latch2.vhd -> Register for input B
+- sseg.vhd -> Seven-segment display logic
+- sseg_mod.vhd -> Modified seven-segment logic
+- GPU.bdf -> Top-level processor schematic
+- GPU_prob2.bdf -> Problem 2 top-level schematic
+- GPU_prob3.bdf -> Problem 3 top-level schematic
+- *.vwf -> Waveform simulations
 
 ## Implemented Problem Sets
 
