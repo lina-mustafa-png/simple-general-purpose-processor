@@ -41,7 +41,7 @@ Modified versions of the ALU were implemented to satisfy additional problem sets
 ## Project Structure
 
 src/
--- ALU.vhd -> ALU core implementation
+-- ALU.vhd # ALU core implementation
 -- ALU_mod.vhd -> Modified ALU based on problem set
 -- ALU_prob3.vhd -> Modified ALU based on problem set
 -- decoder.vhd -> 4-to-16 decoder
